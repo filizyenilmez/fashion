@@ -1,1 +1,1 @@
-![Project fashion](./fashion-jpg.png)
+![Project fashion](./fasion-jpg.png)
